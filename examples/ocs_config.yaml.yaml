@@ -1,0 +1,92 @@
+# OCS Reconfiguration Schedule
+# Ready for NVIDIA Quantum-X / Spectrum-X control plane API
+---
+reconfigurations:
+  - time_s: 0.00
+    job_id: 0
+    reconfig_ms: 24.0
+    action: program_mems_mirrors
+  - time_s: 84.75
+    job_id: 1
+    reconfig_ms: 48.0
+    action: program_mems_mirrors
+  - time_s: 136.33
+    job_id: 2
+    reconfig_ms: 24.0
+    action: program_mems_mirrors
+  - time_s: 394.26
+    job_id: 5
+    reconfig_ms: 24.0
+    action: program_mems_mirrors
+  - time_s: 405.31
+    job_id: 6
+    reconfig_ms: 24.0
+    action: program_mems_mirrors
+  - time_s: 578.49
+    job_id: 10
+    reconfig_ms: 24.0
+    action: program_mems_mirrors
+  - time_s: 744.31
+    job_id: 3
+    reconfig_ms: 48.0
+    action: program_mems_mirrors
+  - time_s: 825.37
+    job_id: 11
+    reconfig_ms: 24.0
+    action: program_mems_mirrors
+  - time_s: 1315.43
+    job_id: 12
+    reconfig_ms: 24.0
+    action: program_mems_mirrors
+  - time_s: 1492.30
+    job_id: 4
+    reconfig_ms: 48.0
+    action: program_mems_mirrors
+  - time_s: 1702.32
+    job_id: 16
+    reconfig_ms: 24.0
+    action: program_mems_mirrors
+  - time_s: 3043.55
+    job_id: 7
+    reconfig_ms: 48.0
+    action: program_mems_mirrors
+  - time_s: 3294.10
+    job_id: 8
+    reconfig_ms: 12.0
+    action: program_mems_mirrors
+  - time_s: 3294.10
+    job_id: 14
+    reconfig_ms: 12.0
+    action: program_mems_mirrors
+  - time_s: 3330.95
+    job_id: 19
+    reconfig_ms: 12.0
+    action: program_mems_mirrors
+  - time_s: 3330.95
+    job_id: 20
+    reconfig_ms: 12.0
+    action: program_mems_mirrors
+  - time_s: 3375.17
+    job_id: 13
+    reconfig_ms: 0.0
+    action: program_mems_mirrors
+  - time_s: 3375.17
+    job_id: 17
+    reconfig_ms: 0.0
+    action: program_mems_mirrors
+  - time_s: 3979.46
+    job_id: 9
+    reconfig_ms: 48.0
+    action: program_mems_mirrors
+  - time_s: 4322.13
+    job_id: 15
+    reconfig_ms: 48.0
+    action: program_mems_mirrors
+  - time_s: 5788.63
+    job_id: 18
+    reconfig_ms: 48.0
+    action: program_mems_mirrors
+  - time_s: 6068.67
+    job_id: 21
+    reconfig_ms: 48.0
+    action: program_mems_mirrors
