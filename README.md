@@ -135,7 +135,7 @@ ComponentSupported ModelsGPU racksNVL72 (Hopper/Rubin), NVL36, customOCS switche
 Paper
 OCS-Planner: Sub-15ms Optical Fabric Reconfiguration for Disaggregated LLM Inference
 Submitted to USENIX OSDI 2026 · Under Review
-[arXiv](#) · [PDF](#)
+[Zenodo DOI](https://doi.org/10.5281/zenodo.18995556) · [PDF](#)
 
 Intellectual Property
 Patent Pending — USPTO Provisional Application
